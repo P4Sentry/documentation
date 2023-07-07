@@ -13,3 +13,7 @@
 - [GitHub repository](https://github.com/detiuaveiro/PECI-05-2022-23)
 
 - [GitHub Organization](https://github.com/P4Sentry)
+
+## Presentation
+
+![P4Sentry](p4sentry-540p.gif)
